@@ -12,7 +12,9 @@ All the commands of this extension can be found by pressing `ctrl+shift+P` and s
 
 To use all the features it is necessary to install:
 
-- From Cinema 4D 2023.2 you do not need to install any Cinema 4D Plugins, for more information please read the [Cinema 4D Connector documentation](https://help.maxon.net/c4d/en-us/#html/5896.html#codeexchangesendtoIDE).
+- From Cinema 4D 2023.2 you do not need to install any Cinema 4D Plugins. Activate the connection by opening `Extension > Script Manager`, then `Edit > Start/Stop Code Exchanger`. For more information please read the [Cinema 4D Connector documentation](https://help.maxon.net/c4d/en-us/#html/5896.html#codeexchangesendtoIDE).
+
+![Cinema 4D Code Exchanger](https://github.com/user-attachments/assets/238a6dce-265c-4522-a02e-7f38a90388d0)
 
 - From Cinema 4D S26+ to Cinema 2023.1 you need the Cinema 4D plugin, downloadable [here](https://github.com/PluginCafe/Cinema4D_Connector-Cinema4D_Plugin/releases). Once downloaded, extract the archive to the Cinema 4D S26+ plugins folder. You then need to activate the extension in the Cinema 4D preferences in the `Extensions | Code Exchange` menu, activate the WebSocket Json checkbox.
 
