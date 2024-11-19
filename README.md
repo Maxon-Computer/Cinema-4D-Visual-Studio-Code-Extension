@@ -6,7 +6,7 @@ The extension also provides syntax highlighting for resource files and string re
 
 All the commands of this extension can be found by pressing `ctrl+shift+P` and searching for `C4D`.
 
-![Cinema 4D Python Debugging in Visual Studio Code](/blob/main/image/vscode_example.png)
+![Cinema 4D Python Debugging in Visual Studio Code](/image/vscode_example.png)
 
 ## Installation
 
