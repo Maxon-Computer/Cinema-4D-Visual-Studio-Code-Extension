@@ -14,9 +14,9 @@ To use all the features it is necessary to install:
 
 - From Cinema 4D 2023.2 you do not need to install any Cinema 4D Plugins, for more information please read the [Cinema 4D Connector documentation](https://help.maxon.net/c4d/en-us/#html/5896.html#codeexchangesendtoIDE).
 
-- From Cinema 4D S26+ to Cinema 2023.1 you need the Cinema 4D plugin, downloadable [here](/releases). Once downloaded, extract the archive to the Cinema 4D S26+ plugins folder. You then need to activate the extension in the Cinema 4D preferences in the `Extensions | Code Exchange` menu, activate the WebSocket Json checkbox.
+- From Cinema 4D S26+ to Cinema 2023.1 you need the Cinema 4D plugin, downloadable [here](https://github.com/Maxon-Computer/Cinema-4D-Visual-Studio-Code-Extension/releases). Once downloaded, extract the archive to the Cinema 4D S26+ plugins folder. You then need to activate the extension in the Cinema 4D preferences in the `Extensions | Code Exchange` menu, activate the WebSocket Json checkbox.
 
-- The `Cinema 4D Connector` extension for Visual Studio code, directly accessible in the Visual Studio code marketplace, or download it [here](/releases).
+- The `Cinema 4D Connector` extension for Visual Studio code, directly accessible in the Visual Studio code marketplace, or download it [here](https://github.com/Maxon-Computer/Cinema-4D-Visual-Studio-Code-Extension/releases).
 
 ## Features
 
