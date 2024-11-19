@@ -41,4 +41,3 @@ In-depth documentation can be found in [Cinema 4D Connector - Documentation](htt
 ## License
 
 This extension is licensed under the [Apache 2.0 License](LICENSE).
-
